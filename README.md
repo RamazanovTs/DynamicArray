@@ -1,5 +1,3 @@
-Sure! Here's a revised README that incorporates details from your GitHub repository:
-
 # Dynamic Array
 
 Welcome to the **Dynamic Array** project! This repository contains a C implementation of a dynamic array that allows for flexible manipulation of integer elements. The dynamic array automatically resizes itself as elements are added or removed, providing a robust solution for handling collections of integers.
