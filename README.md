@@ -22,12 +22,12 @@ Welcome to the **Dynamic Array** project! This repository contains a C implement
 
 2. Compile the code:
    ```bash
-   gcc -o dynamic_array dynamic_array.c
+   gcc -o DynamicArray DynamicArray.c
    ```
 
 3. Run the executable:
    ```bash
-   ./dynamic_array
+   ./DynamicArray
    ```
 
 ## Functions Overview
